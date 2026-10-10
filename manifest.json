@@ -1,0 +1,11 @@
+{
+  "name": "국소배기장치 필요환기량 계산기",
+  "short_name": "국소배기 계산기",
+  "description": "후드 종류별 필요환기량 계산기",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fa",
+  "theme_color": "#12304a",
+  "icons": []
+}
